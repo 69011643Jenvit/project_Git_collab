@@ -22,6 +22,7 @@ return 0;
 
 int checkin(const char *name)
 {
+// Print a check in message for the specified user
 printf("%s are checked in\n", name);
 return 0;
 }
