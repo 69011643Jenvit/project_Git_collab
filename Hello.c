@@ -14,6 +14,7 @@ int greeting(const char *name)
 
 int farewell(const char *name)
 {
+    // Print a farewell message forthe specified user
 printf("Goodbye, %s!\n", name);
 return 0;
 }
